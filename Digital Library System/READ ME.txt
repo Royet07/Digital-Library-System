@@ -1,0 +1,17 @@
+Admin
+------
+Browser Link: http://localhost/Digital%20Library%20System/Digital%20Library%20System/login_usertype/login_type.php
+Username: admin@gmail.com
+Password: 12345
+
+Student
+------
+Browser Link: http://localhost/Digital%20Library%20System/Digital%20Library%20System/login_usertype/login_type.php
+Username: user@gmail.com
+Password: 12345
+
+Teacher
+------
+Browser Link: http://localhost/Digital%20Library%20System/Digital%20Library%20System/login_usertype/login_type.php
+Username: teacher@gmail.com
+Password: 12345

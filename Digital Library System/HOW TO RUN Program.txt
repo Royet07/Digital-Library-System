@@ -1,0 +1,5 @@
+1.) Open Xampp and Start Apache and Mysql.
+
+2.) Paste this link on the Browser:
+
+    http://localhost/LIB_Crud/login_usertype/login_type.php
